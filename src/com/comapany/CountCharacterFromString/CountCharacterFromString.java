@@ -20,7 +20,7 @@ public class CountCharacterFromString {
 	}
 
 	public static void main(String[] args) {
-		characterCount("JavaJ2EE");
+		characterCount("JavaProgram");
 
 	}
 
